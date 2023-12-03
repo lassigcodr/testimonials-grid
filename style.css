@@ -1,6 +1,5 @@
 
 
-
 :root {
     --violet: hsl(263, 55%, 52%);
     --white: hsl(0, 0%, 100%);
@@ -47,19 +46,15 @@ body {
     color: var(--white);
 }
 
-.cards.card-3 {
+.cards.card-3, .cards.card-5 {
     background-color: var(--white);
-    color: var(--dark-blackish-blue);
+    color: var(--dark-grayish-blue);
+    box-shadow: 50px 50px 30px -40px hsla(217, 19%, 35%, .2);
 }
 
 .cards.card-4 {
     background-color: var(--dark-blackish-blue);
     color: var(--white);
-}
-
-.cards.card-5 {
-    background-color: var(--white);
-    color: var(--dark-blackish-blue);
 }
 
 .card-owner {
@@ -117,7 +112,7 @@ p {
         align-items: center;
     }
     .wrapper {
-        width: 65rem;
+        width: 68rem;
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-template-areas: 

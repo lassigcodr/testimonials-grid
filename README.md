@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: [click here](https://ctrlwisdom.github.io/testimonials-grid/index.html)
+- Live Site: [click here](https://lassigcodr.github.io/testimonials-grid/index.html)
 
 ## My process
 
@@ -44,6 +44,6 @@ I begin with thee mobile-first approach. I just set the padding, margin and othe
 
 ## Author
 
-- Frontend Mentor - [@ctrlwisdom](https://www.frontendmentor.io/profile/ctrlwisdom)
-- Twitter - [@ctrlwisdom](https://www.twitter.com/ctrlwisdom)
+- Frontend Mentor - [@lassigcodr](https://www.frontendmentor.io/profile/lassigcodr)
+- Twitter - [@lassigcodr](https://www.twitter.com/lassigcodr)
 
